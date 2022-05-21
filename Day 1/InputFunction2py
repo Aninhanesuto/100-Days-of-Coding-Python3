@@ -1,0 +1,4 @@
+nome = input('Digite um nome: ')
+
+qt = len(nome) - nome.count(' ')
+print('O seu nome tem:', qt, 'caracteres')
