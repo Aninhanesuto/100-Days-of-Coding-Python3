@@ -1,6 +1,6 @@
 
 <h1> 100 Days of Coding Python3 </h1>
-=======
+
 ﻿# 100 Days of Coding Python
 Olá, tudo certo?
 
@@ -46,4 +46,4 @@ Curso Udemy -The Complete Python Pro Bootcamp for 2022 -  Dr. Angela Yu
     Google App Store Analysis
 
     and much much more!
->>>>>>> 4252c80ec7214e4b7cd863340ece41e2d3989774
+
